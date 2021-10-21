@@ -1,0 +1,15 @@
+{
+  "name": "wdio-extension-framework",
+  "version": "1.0.0",
+  "description": "Extended WebdriverIO framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "author": "BA Automation Team",
+  "license": "Open Source",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "engineStrict": true
+}
