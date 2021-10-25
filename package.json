@@ -1,6 +1,6 @@
 {
   "name": "wdio-extension-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extended WebdriverIO framework",
   "main": "index.js",
   "repository": {
