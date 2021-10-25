@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Extended WebdriverIO framework",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gabber4K/wdio-extension.git"
+  },
   "scripts": {
     "test": "npm run tests"
   },
